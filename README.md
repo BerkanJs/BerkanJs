@@ -22,7 +22,7 @@ Database: MongoDB, PostgreSQL, MySQL
 
 Data Science: Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-Tools: Git, GitHub, VS Code, Postman, Docker (soon!)
+Tools: Git, GitHub, VS Code, Postman, Docker
 
 ⚡ Fun fact: I love building side projects and learning new technologies — and I’m always up for a good tech discussion!
 
