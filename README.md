@@ -20,7 +20,7 @@ Backend: Node.js, Express.js, Spring Boot
 
 Database: MongoDB, PostgreSQL, MySQL
 
-Data Science: Python, Pandas, NumPy, Scikit-learn, Matplotlib
+Data Science: Python, Pandas, NumPy, Scikit-learn, Matplotlib,PowerBI
 
 Tools: Git, GitHub, VS Code, Postman, Docker
 
