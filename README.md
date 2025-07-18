@@ -1,30 +1,60 @@
-👋 Hi, I’m Berkan
+👋 Hi, I’m **Berkan Özçelik**
 
-👀 I’m interested in web development, especially in the JavaScript ecosystem (React, Next.js, Node.js) and backend technologies like Spring Boot. I also have a strong background in data analysis and data science, with hands-on experience in Python for machine learning and statistical modeling.
+🎯 I’m a passionate full-stack developer with a strong foundation in both **web development** and **data science**. My expertise spans the **JavaScript ecosystem** (React, Next.js, Node.js) and **backend development** using **Spring Boot**, with a growing focus on **cloud-native applications**.
 
-🌱 I’m currently learning Spring Boot and diving deeper into backend development. My next goals are to master cloud technologies, Docker, and Kubernetes.
+---
 
-💼 I’m looking to collaborate on full-stack web projects, data-driven applications, and open-source contributions.
+### 👀 Interests
+- Full-stack web development (MERN, Spring Boot)
+- Backend architecture & API design
+- Cloud platforms (AWS, GCP), Docker & Kubernetes
+- Data-driven applications, analytics dashboards
+- Clean code, SOLID principles, and scalable system design
 
-📫 How to reach me:
+---
 
-LinkedIn: [(https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/)]
+### 💻 Tech Stack
 
-Portfolio: [(https://next-js-portfolio-one-xi.vercel.app/)]
+**Frontend**  
+`React` · `Next.js` · `Tailwind CSS` · `Bootstrap`  · `Socket.io`
 
-💻 Tech Stack:
+**Backend**  
+`Node.js` · `Express.js` · `Spring Boot` · `RESTful APIs` · `JWT Auth` · `WebSocket`
 
-Frontend: React, Next.js, TailwindCSS,Bootstrap
+**Databases**  
+`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
 
-Backend: Node.js, Express.js, Spring Boot
+**DevOps & Tools**  
+`Docker` · `Git & GitHub` · `Postman` · `VS Code` · `Railway` · `Vercel` · `Render`
 
-Database: MongoDB, PostgreSQL, MySQL
+**Data Science & Analytics**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Power BI`
 
-Data Science: Python, Pandas, NumPy, Scikit-learn, Matplotlib,PowerBI
+---
 
-Tools: Git, GitHub, VS Code, Postman, Docker
+### 🌱 Currently Learning
+- Building scalable microservices with **Spring Boot & Docker**
+- Orchestrating deployments using **Kubernetes**
+- Implementing **CI/CD pipelines**
+- Working with **Cloud platforms** like AWS & Google Cloud
 
-⚡ Fun fact: I love building side projects and learning new technologies — and I’m always up for a good tech discussion!
+---
 
-🚀 Let’s connect and build something awesome!
+### 💼 Looking to Collaborate On
+- Full-stack applications with modern technologies  
+- Real-time applications (chat, dashboard, etc.)  
+- Projects with clean architecture & domain-driven design  
+- Open-source contributions in backend & DevOps
 
+---
+
+### 📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/)
+- [Portfolio Website](https://next-js-portfolio-one-xi.vercel.app/)
+- [GitHub](https://github.com/BerkanJs)
+
+---
+
+⚡ **Fun fact**: I love building side projects from scratch, refactoring legacy code, and exploring new frameworks. I'm always open to a great tech conversation or a challenging collaboration!
+
+🚀 **Let’s connect and build something awesome!**
