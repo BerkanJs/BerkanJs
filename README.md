@@ -7,7 +7,7 @@
 ### 👀 Interests
 - Full-stack web development (MERN, Spring Boot)
 - Backend architecture & API design
-- Cloud platforms (AWS, GCP), Docker & Kubernetes
+- Cloud platforms , Docker & Kubernetes
 - Data-driven applications, analytics dashboards
 - Clean code, SOLID principles, and scalable system design
 
