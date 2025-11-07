@@ -50,8 +50,9 @@
 
 ### 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/)
-- [Portfolio Website]([https://next-js-portfolio-one-xi.vercel.app/](https://personal-portfolio-xi-nine-82.vercel.app/)
+- [Portfolio Website](https://personal-portfolio-xi-nine-82.vercel.app/)
 - [GitHub](https://github.com/BerkanJs)
+
 
 ---
 
