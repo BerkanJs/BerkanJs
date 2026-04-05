@@ -32,6 +32,21 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight)
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+
 ### 🌱 Currently Learning
 - Building scalable microservices with **Spring Boot & Docker**
 - Orchestrating deployments using **Kubernetes**
