@@ -42,10 +42,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" height="180" alt="Berkan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" height="180" alt="Berkan's Top Languages"/>
 </p>
-
 
 ### 🌱 Currently Learning
 - Building scalable microservices with **Spring Boot & Docker**
