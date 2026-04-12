@@ -1,75 +1,120 @@
-👋 Hi, I’m **Berkan Özçelik**
-
-🎯 I’m a passionate full-stack developer with a strong foundation in both **web development** and **data science**. My expertise spans the **JavaScript ecosystem** (React, Next.js, Node.js) and **backend development** using **Spring Boot**, with a growing focus on **cloud-native applications**.
-
----
-
-### 👀 Interests
-- Full-stack web development (MERN, Spring Boot)
-- Backend architecture & API design
-- Cloud platforms , Docker & Kubernetes
-- Data-driven applications, analytics dashboards
-- Clean code, SOLID principles, and scalable system design
-
----
-
-### 💻 Tech Stack
-
-**Frontend**  
-`React` · `Next.js` · `Tailwind CSS` · `Bootstrap`  · `Socket.io`
-
-**Backend**  
-`Node.js` · `Express.js` · `Spring Boot` · `RESTful APIs` · `JWT Auth` · `WebSocket`
-
-**Databases**  
-`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
-
-**DevOps & Tools**  
-`Docker` · `Git & GitHub` · `Postman` · `VS Code` · `Railway` · `Vercel` · `Render`
-
-**Data Science & Analytics**  
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Matplotlib` · `Power BI`
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight)
-
+<h1 align="center">👋 Hi, I'm Berkan Özçelik</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkanJs&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1" height="180" alt="Berkan's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkanJs&layout=compact&theme=tokyonight&cache_seconds=86400&v=1" height="180" alt="Berkan's Top Languages"/>
+🎯 Frontend-focused Full-Stack Developer with strong expertise in building production-grade SaaS platforms, interactive dashboards, and high-performance web applications. Experienced in leading frontend architecture, applying advanced React patterns, and developing scalable e-commerce solutions (Ticimax, Shopify, Ikas).
 </p>
 
-### 🌱 Currently Learning
-- Building scalable microservices with **Spring Boot & Docker**
-- Orchestrating deployments using **Kubernetes**
-- Implementing **CI/CD pipelines**
-- Working with **Cloud platforms** like AWS & Google Cloud
+<p align="center">
+  🚀 Frontend-focused Full-Stack · React · Next.js · TypeScript · GSAP · Three.js · SaaS Platforms
+</p>
 
 ---
 
-### 💼 Looking to Collaborate On
-- Full-stack applications with modern technologies  
-- Real-time applications (chat, dashboard, etc.)  
-- Projects with clean architecture & domain-driven design  
-- Open-source contributions in backend & DevOps
+<!-- STATS ROW -->
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BerkanJs&theme=tokyonight" 
+    width="49%" 
+    height="200"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=BerkanJs&theme=tokyonight" 
+    width="49%" 
+    height="200"
+  />
+</div>
+
+
+<br/>
+
+
 
 ---
 
-### 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/)
-- [Portfolio Website](https://personal-portfolio-xi-nine-82.vercel.app/)
-- [GitHub](https://github.com/BerkanJs)
+<h2>👀 Interests</h2>
+
+<ul>
+  <li>Frontend engineering & interactive UI development (animations, motion design)</li>
+  <li>Building scalable SaaS platforms & data-driven dashboards</li>
+  <li>Modern web technologies (Next.js, React ecosystem)</li>
+  <li>3D web experiences (Three.js) & advanced animations (GSAP, Framer Motion)</li>
+  <li>E-commerce systems & platform customization (Ticimax, Shopify, Ikas)</li>
+  <li>Clean architecture, reusable component systems & performance optimization</li>
+</ul>
 
 
 ---
 
-⚡ **Fun fact**: I love building side projects from scratch, refactoring legacy code, and exploring new frameworks. I'm always open to a great tech conversation or a challenging collaboration!
+<h2>💻 Tech Stack</h2>
 
-🚀 **Let’s connect and build something awesome!**
+<p><b>Frontend</b><br/>
+React · Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · Socket.io
+</p>
+
+
+<p><b>Backend</b><br/>
+Node.js · Express.js · Spring Boot · ASP.NET · ASP.NET MVC · REST APIs · JWT · WebSocket · Go (Golang)
+</p>
+
+
+<p><b>Databases</b><br/>
+MongoDB · PostgreSQL · MySQL · Firebase</p>
+
+<p><b>DevOps & Tools</b><br/>
+Docker · Git · GitHub · Postman · Vercel · Railway · Render</p>
+
+<p><b>Data & Analytics</b><br/>
+Python · Pandas · NumPy · Scikit-learn · Matplotlib · Power BI</p>
+
+---
+
+<h2>⚖️ Tech Focus</h2>
+
+<pre>
+Frontend  ███████░░░ 70%
+Backend   ████████░░ 80%
+DevOps    ████░░░░░░ 40%
+</pre>
+
+---
+
+<h2>🌱 Currently Learning</h2>
+
+<ul>
+  <li>Microservices architecture with Spring Boot & Docker</li>
+  <li>Kubernetes orchestration</li>
+  <li>CI/CD pipelines</li>
+  <li>AWS & Google Cloud platforms</li>
+</ul>
+
+---
+
+<h2>💼 Collaboration</h2>
+
+<ul>
+  <li>Full-stack modern applications</li>
+  <li>Real-time systems (chat, dashboards)</li>
+  <li>Clean architecture & DDD projects</li>
+  <li>Open-source backend & DevOps contributions</li>
+</ul>
+
+---
+
+<h2>📫 Contact</h2>
+
+<p>
+  🔗 <a href="https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/">LinkedIn</a><br/>
+  🌐 <a href="https://personal-portfolio-xi-nine-82.vercel.app/">Portfolio</a><br/>
+  💻 <a href="https://github.com/BerkanJs">GitHub</a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ I enjoy building from scratch, refactoring systems, and exploring new technologies.
+</p>
+
+<p align="center">
+  🚀 <b>Let’s build something impactful.</b>
+</p>
+
