@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Berkan Özçelik</h1>
 
 <p align="center">
-🎯 Frontend-focused Full-Stack Developer with strong expertise in building production-grade SaaS platforms, interactive dashboards, and high-performance web applications. Experienced in leading frontend architecture, applying advanced React patterns, and developing scalable e-commerce solutions (Ticimax, Shopify, Ikas).
+🎯 Frontend-focused Full-Stack Developer building production-grade SaaS platforms, AI-powered products, and real-time interactive dashboards. Experienced in leading frontend architecture, integrating LLMs into live applications, and developing scalable e-commerce solutions (Ticimax, Shopify, Ikas).
 </p>
 
 <p align="center">
-  🚀 Frontend-focused Full-Stack · React · Next.js · TypeScript · GSAP · Three.js · SaaS Platforms
+  🚀 Frontend-focused Full-Stack · React · Next.js · TypeScript · Go · GSAP · Three.js · LLM Integration
 </p>
 
 ---
@@ -24,10 +24,7 @@
   />
 </div>
 
-
 <br/>
-
-
 
 ---
 
@@ -36,29 +33,31 @@
 <ul>
   <li>Frontend engineering & interactive UI development (animations, motion design)</li>
   <li>Building scalable SaaS platforms & data-driven dashboards</li>
-  <li>Modern web technologies (Next.js, React ecosystem)</li>
+  <li>LLM-powered products & real-time AI integration (custom engines, live avatars, evaluation pipelines)</li>
+  <li>Distributed systems fundamentals (consistency models, replication, CAP/PACELC)</li>
   <li>3D web experiences (Three.js) & advanced animations (GSAP, Framer Motion)</li>
   <li>E-commerce systems & platform customization (Ticimax, Shopify, Ikas)</li>
-  <li>Clean architecture, reusable component systems & performance optimization</li>
+  <li>Clean/layered architecture, reusable component systems & performance optimization</li>
 </ul>
-
 
 ---
 
 <h2>💻 Tech Stack</h2>
 
 <p><b>Frontend</b><br/>
-React · Next.js · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · Socket.io
+React · Next.js · TypeScript · Tailwind CSS · Zustand · GSAP · Framer Motion · Three.js · Socket.io
 </p>
-
 
 <p><b>Backend</b><br/>
-Node.js · Express.js · Spring Boot · ASP.NET · ASP.NET MVC · REST APIs · JWT · WebSocket · Go (Golang)
+Node.js · Express.js · Go (Golang) · Spring Boot · ASP.NET · ASP.NET MVC · REST APIs · JWT · WebSocket · WebRTC
 </p>
 
+<p><b>AI / LLM Integration</b><br/>
+OpenAI API · Custom LLM engine configuration · LLM-based evaluation pipelines · Real-time AI avatar integration
+</p>
 
 <p><b>Databases</b><br/>
-MongoDB · PostgreSQL · MySQL · Firebase</p>
+MongoDB · PostgreSQL · MS SQL · MySQL · Firebase</p>
 
 <p><b>DevOps & Tools</b><br/>
 Docker · Git · GitHub · Postman · Vercel · Railway · Render</p>
@@ -81,10 +80,11 @@ DevOps    ████░░░░░░ 40%
 <h2>🌱 Currently Learning</h2>
 
 <ul>
+  <li>Distributed systems fundamentals — consistency models, replication, CAP/PACELC (daily structured study)</li>
+  <li>.NET layered/clean architecture (progressing through ASP.NET MVC → advanced architecture patterns)</li>
   <li>Microservices architecture with Spring Boot & Docker</li>
   <li>Kubernetes orchestration</li>
   <li>CI/CD pipelines</li>
-  <li>AWS & Google Cloud platforms</li>
 </ul>
 
 ---
@@ -93,7 +93,8 @@ DevOps    ████░░░░░░ 40%
 
 <ul>
   <li>Full-stack modern applications</li>
-  <li>Real-time systems (chat, dashboards)</li>
+  <li>AI-integrated products (LLM features, real-time systems)</li>
+  <li>Real-time systems (chat, dashboards, WebRTC)</li>
   <li>Clean architecture & DDD projects</li>
   <li>Open-source backend & DevOps contributions</li>
 </ul>
@@ -104,7 +105,7 @@ DevOps    ████░░░░░░ 40%
 
 <p>
   🔗 <a href="https://www.linkedin.com/in/berkan-%C3%B6z%C3%A7elik-2bb733313/">LinkedIn</a><br/>
-  🌐 <a href="https://personal-portfolio-xi-nine-82.vercel.app/">Portfolio</a><br/>
+  🌐 <a href="https://berkanozcelik.netlify.app/">Portfolio</a><br/>
   💻 <a href="https://github.com/BerkanJs">GitHub</a>
 </p>
 
@@ -117,4 +118,3 @@ DevOps    ████░░░░░░ 40%
 <p align="center">
   🚀 <b>Let’s build something impactful.</b>
 </p>
-
